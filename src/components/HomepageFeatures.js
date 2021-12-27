@@ -44,6 +44,9 @@ function Feature({Svg, title, description}) {
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
+        <div className="jana">
+        <p>this is a test</p>
+        </div>
       </div>
     </div>
   );
